@@ -12,3 +12,4 @@ https://srwesley.github.io/professional-readme-generator/
 ## Video Link
 Since there's no actual web page for this, here is a screen recorded video of the deployment of the application:
 
+[README Generator live test.webm](https://github.com/srwesley/professional-readme-generator/assets/5975345/cf6fecf0-2f7b-4083-b0f3-02e280afa84e)
